@@ -1,8 +1,8 @@
 # T1-2020
-##Bioinformática Aplicada a Genômica Médica
-##Aulas mensais
-##Sexta-Feira das 13h às 23h, Sábado das 9h às 18h e Domingo das 9h às 13h
-##Calendário 2020 - 6 Bioinformática Aplicada a Genômica Médica
+## Bioinformática Aplicada a Genômica Médica
+## Aulas mensais
+## Sexta-Feira das 13h às 23h, Sábado das 9h às 18h e Domingo das 9h às 13h
+## Calendário 2020 - 6 Bioinformática Aplicada a Genômica Médica
 |  Dia  |     Mês    |  Unidade |
 |:-----:|:----------:|:--------:|
 |   11  |  Setembro  | Paulista |
