@@ -2,6 +2,26 @@
 #### Bioinformática Aplicada a Genômica Médica
 #### Aulas mensais
 #### Sextas-Feiras das 13h às 23h, Sábados das 9h às 18h e Domingos das 9h às 13h
+
+Agenda da Sexta
+13:00h-14:30h
+14:45h-16:00h
+16:15h-18:00h
+19:00h-21:00h
+21:20h-23:00h
+
+Sábado:
+9:00h-11:00h
+11:20h-13:00h
+14:00h-16:00h
+16:20h-18:00h
+
+Domingo:
+9:00h-11:00h
+11:20h-13:00h
+14:00h-16:00h
+16:20h-18:00h
+
 #### Calendário 2020 - Bioinformática Aplicada a Genômica Médica
 |  Dia  |     Mês    |  Unidade |
 |:-----:|:----------:|:--------:|
